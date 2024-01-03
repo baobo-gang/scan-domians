@@ -4,3 +4,5 @@
 直接运行 python scan_domains.py
 
 爆破只需要将字典内容复制进dict.txt内即可
+
+查到到的子域名会在domain.txt中(已去重)
